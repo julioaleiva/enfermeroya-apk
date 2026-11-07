@@ -3,10 +3,10 @@
     "archivo": "apps-mobile/enfermeroya-admin.apk",
     "nombreAndroid": "Ad.Enf.YA!",
     "paquete": "com.enfermeroya.admin",
-    "version": "0.1.3",
-    "codigo": 4,
-    "bytes": 66175709,
-    "sha256": "3e5c27371166af5b89276197bea1129b50f0e8755c5c64fa1833ab0a8230a145",
+    "version": "0.1.4",
+    "codigo": 5,
+    "bytes": 66175796,
+    "sha256": "4675e26490cbf90f3e1f0efbad82cb4869c0027c723247d0c753cddf86b57aec",
     "firma": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
     "javascriptIncluido": true,
     "entornoVerificado": true,
@@ -14,20 +14,20 @@
       "schema": 1,
       "app": "admin",
       "platform": "android",
-      "version": "0.1.3",
-      "build": "4",
-      "generatedAtUtc": "2026-11-07T15:28:06.963Z",
-      "id": "admin-android-mw6k5f05-7c0b1b"
+      "version": "0.1.4",
+      "build": "5",
+      "generatedAtUtc": "2026-11-07T15:58:35.823Z",
+      "id": "admin-android-mw6l8m5s-ba7c02"
     }
   },
   {
     "archivo": "apps-mobile/enfermeroya-enfermero.apk",
     "nombreAndroid": "Enf.Enf.YA!",
     "paquete": "com.enfermeroya.enfermero",
-    "version": "0.1.3",
-    "codigo": 4,
-    "bytes": 69727182,
-    "sha256": "e0ed1b85ff6cd48c37da9886386d9e03255da2fa4f868fb9d0e48c338face63b",
+    "version": "0.1.4",
+    "codigo": 5,
+    "bytes": 69726815,
+    "sha256": "641d5489b09cfc16b676820c1e27e6025043030c953658ad06ddb8d667aec9ec",
     "firma": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
     "javascriptIncluido": true,
     "entornoVerificado": true,
@@ -35,20 +35,20 @@
       "schema": 1,
       "app": "enfermero",
       "platform": "android",
-      "version": "0.1.3",
-      "build": "4",
-      "generatedAtUtc": "2026-11-07T15:29:33.444Z",
-      "id": "enfermero-android-mw6k79qd-e32f43"
+      "version": "0.1.4",
+      "build": "5",
+      "generatedAtUtc": "2026-11-07T16:00:56.476Z",
+      "id": "enfermero-android-mw6lbmot-c6abbb"
     }
   },
   {
     "archivo": "apps-mobile/enfermeroya-paciente.apk",
     "nombreAndroid": "Pac.Enf.YA!",
     "paquete": "com.enfermeroya.paciente",
-    "version": "0.1.3",
-    "codigo": 4,
-    "bytes": 69710213,
-    "sha256": "c2f56f0c8f63a29249c72db232d6044fdc7a4d7a87c4e62d5d0f9f33edb5ffe7",
+    "version": "0.1.4",
+    "codigo": 5,
+    "bytes": 69709787,
+    "sha256": "c96137c03d334e236109ac88afdc9e6ef0c6ed69dc2a2d642cbda664822d8913",
     "firma": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
     "javascriptIncluido": true,
     "entornoVerificado": true,
@@ -56,10 +56,10 @@
       "schema": 1,
       "app": "paciente",
       "platform": "android",
-      "version": "0.1.3",
-      "build": "4",
-      "generatedAtUtc": "2026-11-07T15:31:46.733Z",
-      "id": "paciente-android-mw6ka4ku-1f60b9"
+      "version": "0.1.4",
+      "build": "5",
+      "generatedAtUtc": "2026-11-07T16:03:30.074Z",
+      "id": "paciente-android-mw6lex7g-3624c8"
     }
   }
 ]
