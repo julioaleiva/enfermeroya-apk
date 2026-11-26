@@ -3,10 +3,10 @@
     "archivo": "apps-mobile/enfermeroya-admin.apk",
     "nombreAndroid": "Ad.Enf.YA!",
     "paquete": "com.enfermeroya.admin",
-    "version": "0.1.6",
-    "codigo": 7,
-    "bytes": 66175663,
-    "sha256": "365f517cb14b4482f3be7901ddf7f642969a578a45d57a70e1bae616c1aa6c06",
+    "version": "0.1.7",
+    "codigo": 8,
+    "bytes": 66182391,
+    "sha256": "f5b77514d4af1910a8f2dca977a72ddf8451c404f0ed3f4dd16ae03c670993dc",
     "firma": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
     "javascriptIncluido": true,
     "entornoVerificado": true,
@@ -14,12 +14,11 @@
       "schema": 1,
       "app": "admin",
       "platform": "android",
-      "version": "0.1.6",
-      "build": "7",
-      "generatedAtUtc": "2026-11-07T21:18:05.524Z",
-      "id": "admin-android-mw6wnhlh-b38d5e"
-    },
-    "sufijoARTRetiradoDelBundle": true
+      "version": "0.1.7",
+      "build": "8",
+      "generatedAtUtc": "2026-11-26T02:26:31.790Z",
+      "id": "admin-android-mwwxlh4f-a08e14"
+    }
   },
   {
     "archivo": "apps-mobile/enfermeroya-enfermero.apk",
@@ -40,8 +39,7 @@
       "build": "7",
       "generatedAtUtc": "2026-11-07T21:19:51.380Z",
       "id": "enfermero-android-mw6wpr9x-983efe"
-    },
-    "sufijoARTRetiradoDelBundle": true
+    }
   },
   {
     "archivo": "apps-mobile/enfermeroya-paciente.apk",
@@ -62,7 +60,6 @@
       "build": "7",
       "generatedAtUtc": "2026-11-07T21:21:22.731Z",
       "id": "paciente-android-mw6wrprg-90bbe2"
-    },
-    "sufijoARTRetiradoDelBundle": true
+    }
   }
 ]
